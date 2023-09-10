@@ -32,31 +32,28 @@ Basic internal gate for companies where employees find the news and stay updated
 
 
 ## Screenshots
-![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/fb34cc00-0132-44b3-a825-6b287cb01ba1)
+![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/a4ff7788-d756-41ce-bafa-e08e12813d1d)
 
-![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/c37bffb0-8377-49b6-9504-2e49c58ee337)
+![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/0ed07379-74f4-47c0-90cf-660dde969afa)
 
-![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/1c5e87f3-80ed-48b8-9595-953d6e10dc15)
+![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/50b6bb94-6baf-4aa9-9166-51682707b428)
 
-![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/c25f4865-2414-4511-85e5-5b37bc431c90)
+![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/d9e560ca-2f98-43c4-9fc5-d273927cf0fd)
 
-![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/6b05b9cb-5587-4c20-8e47-b65d14546a0f)
+![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/448d4c50-d5f8-451a-9495-1123502be284)
 
-![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/e1615cb5-94c9-4dad-a96f-4435ae257a25)
+![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/527595a4-3fd1-415b-8a01-bff0e1acfa6a)
 
-![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/3b1d6fb6-a629-4e72-880b-169602a5a492)
+![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/a55db426-592d-49a8-b9ca-cde9f38fb518)
 
-![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/d5483b09-1791-4677-b8dc-81ed64e51a33)
+![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/ef36a294-9cb0-4c6f-8165-1cc56eca4cf1)
 
-![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/cf2f8f56-f161-4631-81e3-886c02195bc1)
+![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/c04103d5-1ae7-4bc1-9747-76eda416d17a)
 
-![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/e1091ed1-bcce-41c8-ba48-41c81af547f6)
+![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/794f65e9-e7b5-4b18-9769-ba1c603d44e5)
 
-![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/3eb03c3c-e40c-41d9-b54d-08341e046eb1)
+![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/3443af35-aaaa-4ae6-8bb0-dfcc5d3ad880)
 
-![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/e7d8d743-31f1-4724-9010-445100b95ba0)
+![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/7d7740ce-e8d7-4c0f-8605-3a5eec156d65)
 
-![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/656c26ac-afaf-42b6-9190-beccf3a2a6a9)
-
-![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/3b4835a9-c642-415a-9941-8a4f1c3acc35)
-
+![image](https://github.com/ahmadim98/CompanyGate/assets/50719996/de78be09-3db3-4390-94d7-d6982f029556)
